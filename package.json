@@ -1,7 +1,7 @@
 {
   "name": "detect-client",
   "version": "1.0.0",
-  "description": "",
+  "description": "Analyse the client with 'detect-browser' package",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
@@ -9,7 +9,7 @@
     "build": "parcel build index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "haydnba@pm.me",
   "license": "ISC",
   "dependencies": {
     "detect-browser": "^5.2.0"
